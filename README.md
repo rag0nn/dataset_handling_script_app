@@ -1,3 +1,4 @@
+<h3>TR</h3>
 <ul>
 <li>decrease_frames_according_to_labels.ipynb: Etiket ve frame dosyası sayısını etiket dosyalarının sayısına göre eşitler</li>
 <li>fetching_frames_from_video.ipnynb: Videodan seçerek frameleri görsele dönüştürmeye yarar</li>
