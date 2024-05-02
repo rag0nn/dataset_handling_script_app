@@ -1,4 +1,8 @@
-<h3>ENG</h3>
+<h4>ENG</h4>
+<h3>PROJECT</h3>
+<p>This scripts created for handling easily data management for YOLO format type.</p>
+<h3>FILE HIERARCHY</h3>
+<ul>You can use every script with Python Notebook not installation need without downloading process.</ul>
 <ul>
 <li>decrease_frames_according_to_labels.ipynb: Equalize the label and frame counts</li>
 <li>fetching_frames_from_video.ipnynb: Vid2im process</li>
@@ -41,7 +45,11 @@
 
 
 
-<h3>TR</h3>
+<h4>TR</h4>
+<h3>PROJE</h3>
+<p>Bu kodlar YOLO formatındaki verileri kolaylıkla ele almak için yazılmıştır.</p>
+<h3>DOSYA HİYERARŞİSİ</h3>
+<ul>Bu repoyu indirerek doğrudan Python Not Defterleri aracılığıyla kullanabilirsiniz.  Başka bir indirmeye gerek yoktur.</ul>
 <ul>
 <li>decrease_frames_according_to_labels.ipynb: Etiket ve frame dosyası sayısını etiket dosyalarının sayısına göre eşitler</li>
 <li>fetching_frames_from_video.ipnynb: Videodan seçerek frameleri görsele dönüştürmeye yarar</li>
